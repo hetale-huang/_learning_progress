@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="swap.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="point.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="circle.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="02全局区.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="03栈区.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="04堆区.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="05delete.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="06引用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="07引用的注意事项.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="08引用做函数参数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="09引用做函数的返回值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10引用的本质.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11常量引用、.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="12函数默认参数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="13函数的占位参数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="14函数重载.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="15重载条件注意事项.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="16类和对象行为属性作为整体.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="17类和对象_学生类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="18类和对象_权限.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="19类和对象_classstruct区别.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="20成员属性设置为私有.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="21类和对象_案例立方体.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="22类和对象_案例点和圆类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="point.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="circle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="23类和对象_构造函数和析构函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="24类和对象_函数的分类以及调用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="25类和对象_拷贝构造函数调用的时机.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="26类和对象_构造函数调用规则.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="27类和对象_深拷贝和浅拷贝.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="28类和对象_ 初始化列表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="29类和对象_类对象作为类成员.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="30类和对象_静态成员.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="30类和对象_静态函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="31类和特性_成员变量和成员函数分开储存.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="33类和对象_this指针的使用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="34类和特性_空指针访问成员函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="35类和特性_const修饰成员函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="36类和特性_全局函数做友元.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="37类和特性_类做友元.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="38类和特性_成员函数做友元.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="39类和对象_类和对象_加号重载符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="40左移运算符重载.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="41递增运算符重载.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="42赋值运算符重载.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="43重载关系运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="44函数调用运算符重载.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="45继承的基本语法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="46继承的方式.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="01开头原始.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="47继承中的对象模型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="48继承中的构造和析构顺序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="49继承同名成员处理方式.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="50静态成员函数处理方式.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="51多继承语法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="52棱形继承.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="53多态_多态的基本语法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="55多态案例计算器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="56纯虚函数和抽象类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="57多态案例制作饮品.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="58虚析构和纯虚析构.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="59多态案例三电脑组转.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="60写文本文件.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="61读取文件.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="62写文件用二进制.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="63读文件.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

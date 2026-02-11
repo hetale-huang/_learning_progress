@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="swap.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1模板.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="02函数模板注意事项.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="03函数模板案例.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="04普通函数和函数模板的区别.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="05普通函数和函数模板的调用规则.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="06模板的局限性.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="07 类模板.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="08中类模板成员函数创建时机.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="09类模板对象做函数参数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="05类模板与继承.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10类模板中成员函数类外实现.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="14类模板的分文件编写.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="person.hpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="person.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="15类模板和友元.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="16STL初始_vector存放内置数据类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="17存放自定义数据类型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="18容器嵌套容器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="19STL构造函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="0头.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="20string的赋值操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="20字符串拼接.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="21字符串的查找和替换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="22string的字符串比较.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="23string字符的存取.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="24string的删除和插入.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="25string的子串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="26vector容器构造函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="27vector函数容器和容量大小.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="28插入删除.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="29数据存取.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="30互换容器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="31预留空间.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="32deque容器_构造函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="33deque赋值操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="34deque容器的大小操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="35deque插入和删除.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="36deque数据存取.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="37deque容器排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="38案例评委打分.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="39stack容器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="40queque容器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="41list容器-构造函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="42list的赋值和交换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="43list容器中的大小操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="44list插入和删除.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="45list数据存取.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="46list反转和排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="48排序案例.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="49set容器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="50set容器的交换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="51set插入和删除.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="52set查找和统计.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="53set和mutiset的区别.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="54pair对组的创建.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="55set内置类型指定排规则.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="56自定义数据类型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.9.3map大小和交换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="58map容器的大小和交换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.9.4map插入和删除.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.9.5map的查找和删除.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.9.6map容器中的排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="63函数对象.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="64谓词.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="65二元谓词.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="66算术仿函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="67关系仿函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="68逻辑仿函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="69常用遍历函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="71transform常用遍历算法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="72常用的查找算法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="73adjacant_find.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="74cout统计元素的个数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="75binarysearch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="76coutif.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="77sort常用的排序算法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="78洗牌算法random_shuffle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="79merge.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="80常见的算术生成算法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
